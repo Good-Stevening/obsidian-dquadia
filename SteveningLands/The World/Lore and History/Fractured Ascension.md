@@ -4,7 +4,7 @@
 > _“Before stars knew our name, we were dust and silence.”_
 - The planet is a rogue world — a lonely traveler in the void.
 - No sunlight, no seasons — only geothermal energy and possibly strange, pre-physical forces in the core.
-- Visited by **The Architects** (ancient aliens). Their nature is **unknown** — physical, dimensional, AI, divine? They arrive briefly, build vast structures and systems (now buried or crumbled), and leave.
+- Visited by **The Ancients** (ancient aliens). Their nature is **unknown** — physical, dimensional, AI, divine? They arrive briefly, build vast structures and systems (now buried or crumbled), and leave.
 - What they leave behind: dormant **constructs**, **power sources**, or a **seeded core** intended to catalyze something later.
 **People now mythologize this era as**:
 - _“The Time of the One Flame”_ – a single divine being seeded creation
@@ -64,10 +64,10 @@ The setting now has:
 ## **Age of the Drift** (Before Recorded Time)
 - **The Rogue Wandering**  
     The world drifts alone through the void, cold and dark, with no sun or seasons.
-- **The Arrival of the Architects**  
+- **The Arrival of the Ancients**  
     The ancient alien race visits, planting vast structures, dormant tech, or energy seeds within the planet.
 - **The Great Silence**  
-    The Architects vanish mysteriously, leaving behind relics that hum with unknown power.
+    The Ancients vanish mysteriously, leaving behind relics that hum with unknown power.
 ## **Age of Capture** (Mythic Creation, ~millennia before present)
 - **The Gravitational Embrace**
     The rogue planet is captured by a solar system, possibly aided by alien technology manipulating gravity.

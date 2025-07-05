@@ -23,23 +23,15 @@
 ## 🛡️ Governance
 
 ---
-## 🧱 Infrastructure & Utilities
-
----
-## ⚒️ Economy & Labor
-
----
-## 🧍 People & Culture
-
----
-## 🛐 Dangers & Drama
-
----
-## 🏞️ Surroundings
+## Points of Interest
+- **The Shattered Stone Tavern**: A popular gathering spot for miners, lumberjacks, and travelers alike. Its name comes from an alleged meteorite embedded in the fireplace, said to have fallen during the Age of Capture.
+- **The Temple of Ashes**: A place of worship dedicated to the spirits of the volcano and the earth. It is built around a natural hot spring that bubbles up through the temple floor.
 
 ---
 ## 📜 Notable NPCs
-
+- **[[Eamon Blacksmith]]**: A skilled artisan and respected leader of the Metalworkers Guild, Eamon is known for his craftsmanship as well as his political acumen.
+- **[[Lira Deepvein]]**: An enigmatic miner who claims to have discovered strange runes deep within the oldest mine shafts. Some whisper that she is touched by divine power or even an agent of the [[Aurali]] themselves.
+- **[[Gwendolyn "Stoneheart" Thorne]]**: A formidable woman in charge of Forgewater's defense, Gwendolyn has earned her nickname through years of service and unyielding determination.
 ---
 
 
