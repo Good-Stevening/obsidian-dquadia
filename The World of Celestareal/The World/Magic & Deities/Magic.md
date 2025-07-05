@@ -19,3 +19,8 @@ Spellcasters may interpret and interact with magic in different ways, depending 
 - **Paladins** awaken their magical ability upon taking a sacred oath, drawing divine power from their unwavering conviction and moral purpose.
 - **Clerics** access magic through faith, devotion, or ritual, often manifesting spells as a reflection of their connection to a higher power or spiritual truth.
 
+• Aether Resonance – The planet’s crust pulses with an energy called Aether, concentrated along ancient ley lines that trace back to the convergence event. Spellcasting requires attuning oneself to these resonances.
+
+• Relic Attunement – Artifacts from the Ascendants serve as focal points for magical power. Their activation often demands a ritual that echoes their original purpose—whether drawing energy from geothermal vents or interfacing with cosmic frequencies.
+
+Magic in Celestareal adheres to “natural laws” of its own—laws that are both mysterious and grounded in the planet’s unique history. Mastery comes not only from innate talent but also from understanding the interplay between tectonic energies, relic vibrations, and cosmic cycles.
