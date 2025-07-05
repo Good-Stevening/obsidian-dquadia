@@ -1,0 +1,1 @@
+- a blacksmith who uses the volcanic magma to heat their forge
