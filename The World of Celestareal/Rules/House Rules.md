@@ -11,6 +11,8 @@ Weapons can be sheathed as a free action, though equipping shields and unequippi
 You may choose to roll your inspiration roll after seeing the result of the roll, but before knowing the outcome.
 # Exhaustion when downed
 When reduced to 0 HP, you gain a point of exhaustion.
+# Death
+If your character fails three death saes, or would otherwise die, if the situation allows for it, if the DM agrees, you may instead receive a permanent disabling wound, such as losing the use of an arm, or going blind. This is to be discussed with the DM, and should be plausible. It is very unlikely to survive a fall from certain distances, for example, so this rule is always meant to be seen as "within reason". Wrong or over use of this rule may make character death trivial.
 # Help Action
 You can only use the Help action for skills you are proficient with.
 # Max Extra Crit Dice
