@@ -1,23 +1,38 @@
-# Disclaimer
-gameplay-wise, “Anything goes” ---though we might not agree with certain topics that are wrong, things may happen in game that we do not condone in real life. 
-I want it to be clear that these ‘taboo’ topics can certainly be found in this world, and may be encountered by the player characters. 
-If you have certain topics like these, such as, but not limited to, violence, gore, sexism, sex, dismemberment, rape, etc.., this may not be the game for you.
-That being said, the players are supposed to be the "good guys", and as such, I expect the players to do what is deemed "good" generally, though I certainly expect intricacies and deviance in player character motivations to do whatever quests is laid before them, but there should be no "murder-hobos", or generally player characters following an "evil" path.
-# Drinking Potions
-In the 2024 5e rules, drinking or feeding a potion is a bonus action, and you roll for restored HP. House rule: if you take an action to drink your health potion, you get the maximum amount of HP from it restored. This can be explained that if you take an action, you assure that you drink the whole potion, where as if you take a bonus action, you may be rushed, and may not get the full content in your, or whomever you're feeding the potion to, mouth.
+# Gameplay Philosophy: A World of Complexity
+In this game world, the motto is “Anything goes”—narratively speaking. While we may encounter themes or situations that challenge our real-world values, it's important to remember that this is a fictional setting designed to explore a wide range of experiences and moral dilemmas.
+
+Some storylines may touch on mature or controversial topics such as violence, gore, sexism, sexuality, and dismemberment. If these themes are uncomfortable or distressing for you, this may not be the ideal game experience.
+
+That said, players are expected to embody characters who strive to be the "good guys." While nuanced motivations and morally gray decisions are welcome and encouraged for depth, the overall tone should lean toward heroism and integrity. This is not a game for "murder-hobos" or characters who pursue wanton cruelty or evil for its own sake.
+# Potion Efficiency Based on Action Type
+In accordance with the 2024 5e rules, drinking or administering a potion is typically a bonus action, and the healing effect is determined by rolling the appropriate dice.
+
+However, under this house rule, if a player chooses to use their action to drink or feed a healing potion, they receive the maximum possible healing from that potion.
+
+*Why?*  
+Taking an action represents a deliberate, focused effort—ensuring every last drop of the potion is consumed properly. In contrast, using a bonus action implies haste or distraction, which might result in a partial dose or spillage during the chaos of combat.
+
+This rule rewards tactical choices and adds a layer of realism to potion use, encouraging players to weigh urgency against effectiveness.
 # Drawing and Sheathing Weapons
-Weapons can be sheathed as a free action, though equipping shields and unequipping them still count as an action, since they are armour with the donning and doffing rules.
+- Sheathing a weapon is a free action.
+- Equipping or doffing a shield requires an action, as shields are considered armour and follow donning/doffing rules.
 # Inspiration
-You may choose to roll your inspiration roll after seeing the result of the roll, but before knowing the outcome.
-# Exhaustion when downed
-When reduced to 0 HP, you gain a point of exhaustion.
-# Death
-If your character fails three death saves, or would otherwise die, if the situation allows for it, if the DM agrees, you may instead receive a permanent disabling wound, such as losing the use of an arm, or going blind. This is to be discussed with the DM, and should be plausible. It is very unlikely to survive a fall from certain distances, for example, so this rule is always meant to be seen as "within reason". Wrong or over use of this rule may make character death trivial.
+You may choose to use Inspiration after seeing the result of your roll, but before knowing the outcome. This allows for more strategic use without removing the element of suspense.;
+# Exhaustion When Downed
+When a character is reduced to 0 HP, they gain 1 point of exhaustion. This reflects the toll of near-death experiences and encourages caution in combat.
+# Death and Disabling Injuries
+- If your character fails three death saving throws or would otherwise die, the DM may offer an alternative: a permanent disabling wound (e.g., blindness, loss of limb).
+- This option is only available if the situation plausibly allows survival, and must be agreed upon with the DM.
+- This rule is meant to preserve drama and realism—not to trivialize death. Overuse may undermine its impact.
 # Help Action
-You can only use the Help action for skills you are proficient with.
+You may only use the Help action for skills in which your character is proficient. This ensures that assistance is meaningful and grounded in character expertise.
 # Max Extra Crit Dice
-Any dice you would normally get to roll as 'extra' dice because of a critical hit, automatically have the maximum value. This only applies to the extra dice, not the regular attack dice.
+- When scoring a critical hit, any extra dice granted by the crit (e.g., Sneak Attack, Divine Smite) are treated as maximum value.
+- This applies only to the extra dice, not the base weapon damage dice.
 # PVP Combat
-PVP is discouraged, and as a general rule, if you decide to initiate PVP, the targetter player gets to go first and decides the action, if **all** players are in agreement to engage in PVP, there may be exceptions to this rule.
-# Coyote time
-Whenever a creature would fall 10 feet or more, instead of falling instantly, the creature can choose to delay its fall until the end of its next turn, or its current turn, whichever comes first.
+- Player vs. Player combat is discouraged.
+- If a player initiates PVP, the targeted player acts first and chooses their response.
+- Exceptions may apply only if all players agree to engage in PVP under different terms.
+# Coyote Time (Falling Delay)
+- When a creature would fall 10 feet or more, they may choose to delay the fall until the end of their current turn or the end of their next turn, whichever comes first.
+- This allows for cinematic moments and last-second saves.
