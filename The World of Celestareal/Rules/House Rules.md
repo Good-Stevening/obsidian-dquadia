@@ -9,7 +9,7 @@ In accordance with the 2024 5e rules, drinking or administering a potion is typi
 
 However, under this house rule, if a player chooses to use their action to drink or feed a healing potion, they receive the maximum possible healing from that potion.
 
-*Why?*  
+*Why?* 
 Taking an action represents a deliberate, focused effort—ensuring every last drop of the potion is consumed properly. In contrast, using a bonus action implies haste or distraction, which might result in a partial dose or spillage during the chaos of combat.
 
 This rule rewards tactical choices and adds a layer of realism to potion use, encouraging players to weigh urgency against effectiveness.

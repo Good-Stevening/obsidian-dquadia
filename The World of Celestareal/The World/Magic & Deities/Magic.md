@@ -5,7 +5,7 @@
 > [!info] 
 > In terms of game-mechanics, the magic system does not deviate from the normal rules.
 
-Magic in this world is not divine by origin—but the lingering echo of a power left behind by the long-vanished **[[The Ancients|Ancients]]**. What many call “magic” is, in truth, the residue of their forgotten technology—an energy that still permeates the world.
+Magic in this world is not divine by origin—but the lingering echo of a power left behind by the long-vanished **[[Ancients|Ancients]]**. What many call “magic” is, in truth, the residue of their forgotten technology—an energy that still permeates the world.
 
 Some few scholars grasp fragments of its true, scientific nature, striving to rediscover its origins. Others revere it as a sacred force, a divine gift from gods or spirits.
 
