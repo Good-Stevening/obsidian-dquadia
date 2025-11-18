@@ -19,7 +19,6 @@ Certain materials, locations, or individuals conduct Lattice energy more efficie
 Stability  
 Magical effects persist only when the surrounding Lattice remains stable. Disrupted or turbulent regions cause spells to warp, fail, or behave unpredictably. Stability can be influenced by geography, emotional events, fragment awakenings, or celestial alignments.
 ## Interaction with Magic
-
 Every magical tradition interfaces with the Lattice differently:
 - Arcane magic manipulates resonance using form, geometry, and precision.  
 - Divine magic aligns personal belief with Seedborn echoes embedded in the field.  
