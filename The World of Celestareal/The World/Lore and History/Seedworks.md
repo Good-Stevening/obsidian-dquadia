@@ -1,11 +1,10 @@
-## The Seedworks Today
-
+# The Seedworks Today
+#lore
 **The world does not remember the Seedworks.**  
 It _survives_ them.
 
 Buried continents-deep, sealed behind impossible geometry, the original Seedworks still hum with Ancient power. Though dormant, they are far from dead. In many ways, the Seedworks have become the silent, beating heart of the world—shaping events without mortals or gods realizing their origin.
-
-### 1. **The Vaults Beneath the World**
+## The Vaults Beneath the World
 The Seedworks were never a single location, but a global lattice:  
 a network of subterranean chambers, conduits, and vaults built into the planet itself. Time has collapsed many; others remain intact, humming softly like organs of a long-slumbering titan.
 
@@ -15,8 +14,7 @@ Their structures defy mundane logic:
 - gravity that bends as if reconsidering its own purpose
 
 The deeper one descends, the more reality loosens, as though the Seedworks exist partially outside the world they nurtured.
-
-### 2. **Dormant Pods and Lost Chambers**
+## Dormant Pods and Lost Chambers
 Most of the stasis-pods are empty—those that birthed the Makers long ago.  
 But there are anomalies:
 - **Sealed pods that never opened**, still glowing with pale memory-light.
@@ -25,14 +23,12 @@ But there are anomalies:
 
 Scholars whisper that a few pods still contain beings not meant to wake.  
 Whether that is hope or dread depends on who is speaking.
-
-### 3. **The Spinal Conduits**
+## The Spinal Conduits
 Millions of tiny channels—arteries of pale metal—run through the crust.  
 They once carried information, energy, and command-signals between the Seedworks' nodes. Most are dead. A few still flicker with intermittent pulses, like nerves firing in a dream.
 
 Those who are sensitive to magic often feel déjà vu or sudden headaches when walking above active conduits. Aurali find these regions… uncomfortable.
-
-### 4. **Residual Fields (The Invisible Influence)**
+## Residual Fields (The Invisible Influence)
 While the Makers are gone, something of their resonance remains embedded in the Seedworks.
 
 Regions above intact vaults often display anomalies:
@@ -45,8 +41,7 @@ Regions above intact vaults often display anomalies:
 Some places are so saturated that mortals unknowingly build temples atop them, mistaking the lingering Ancient resonance for divine presence.
 
 They’re not wrong—but the truth is older than prayer.
-
-### 5. **The Guardians (Myth or Mechanism?)**
+## The Guardians (Myth or Mechanism?)
 Legends across cultures speak of strange metal figures or luminous shadows lurking in deep caves or ruin-choked canyons. These myths vary, but they share common traits:
 - emotionless
 - silent
@@ -58,8 +53,7 @@ These are likely **maintenance constructs**—automated custodians left behind b
 Some consider them divine messengers.  
 Others believe they are omens of calamity.  
 Both are wrong—and right.
-
-### 6. **The Heart-Chamber (The Myelin Core)**
+## The Heart-Chamber (The Myelin Core)
 One chamber is believed to still function fully:  
 the **Myelin Core**, a colossal, star-shaped engine somewhere near the planet’s mantle.
 
@@ -69,8 +63,7 @@ It keeps something alive.
 
 Some Aurali insist the Core is what keeps _them_ alive.  
 Others fear it may someday awaken—and resume whatever task the Ancients abandoned.
-
-### 7. **Why the Aurali Fear the Seedworks**
+## Why the Aurali Fear the Seedworks
 The Aurali, inheritors of the Makers’ fractured light, feel an instinctive pull toward the Seedworks’ deepest nodes.
 
 A pull they avoid.
@@ -81,8 +74,7 @@ They sense echoes—ghost-impressions—of the Makers who came before. They feel
 Most Aurali decree the Seedworks as forbidden places.  
 Not to protect mortals—  
 but to protect **themselves**.
-
-### 8. **Future Threats and Secrets**
+## Future Threats and Secrets
 The Seedworks hold many possibilities for the world’s unfolding story:
 - **A still-sleeping Maker could awaken**, changing the balance of all divine power.
 - **The Myelin Core may reboot**, altering magic or reshaping ecosystems.
