@@ -1,4 +1,4 @@
-# **The Smallfolk**
+# The Smallfolk
 **The Smallfolk** are the shared ancestors of modern **Halflings** and **Gnomes**—a diminutive people remembered in story and song as gentle wanderers of the early world. Long before the first great kingdoms rose, before maps or roads or written chronicles, the Smallfolk moved lightly through the land’s meadows, hillvales, and underleaf groves. Their legacy survives not in ruins or monuments, but in traditions, habits, and the quiet resilience carried by their descendants.
 
 ## Origins and Nature
