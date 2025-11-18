@@ -9,7 +9,7 @@ Mortals revere them as deities.
 Scholars fear them as anomalies.  
 The Seedworks regards them as corrupted reflections of what should have been.
 ## Origins: Born of a Divine Explosion
-When the Makers destroyed one another, their radiant cores ruptured. Each core held a complete domain—creation, storm, dream, decay, memory, and more.
+When the [[Makers]] destroyed one another, their radiant cores ruptured. Each core held a complete domain—creation, storm, dream, decay, memory, and more.
 
 When they burst, they did not release light.  
 They released pieces of themselves.

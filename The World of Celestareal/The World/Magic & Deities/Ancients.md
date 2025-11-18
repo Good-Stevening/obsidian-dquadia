@@ -15,7 +15,7 @@ The Ancients left behind structures and devices of impossible scale:
 
 These remnants have influenced the development of life and civilization on Celestareal, shaping geography, ecology, and the eventual emergence of the Aurali and Nehini.
 ## The Makers and the Fall
-Some of the beings created or nurtured by the Ancients rose to godlike prominence and became known as the Makers. These early divine entities inherited aspects of Ancient power but eventually entered conflict, culminating in the First Dawn—the cataclysmic event that shattered their cores and fractured their essence across the world. The death and dispersal of the Makers effectively ended direct Ancient influence, leaving only residual energy, artifacts, and the Lattice to shape the planet.
+Some of the beings created or nurtured by the Ancients rose to godlike prominence and became known as the [[Makers]]. These early divine entities inherited aspects of Ancient power but eventually entered conflict, culminating in the First Dawn—the cataclysmic event that shattered their cores and fractured their essence across the world. The death and dispersal of the Makers effectively ended direct Ancient influence, leaving only residual energy, artifacts, and the Lattice to shape the planet.
 ## Legacy
 The Ancients are the origin point of all current divine phenomena on Celestareal. They left behind:
 - [[The Lattice]], the fundamental field through which magic operates.
