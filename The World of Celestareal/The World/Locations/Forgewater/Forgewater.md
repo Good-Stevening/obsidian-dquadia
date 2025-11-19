@@ -1,4 +1,4 @@
-# **Forgewater**
+# Forgewater
 #location #settlement 
 Forgewater is a rugged mining town nestled at the foot of the northern mountains, where jagged peaks pierce the sky and veins of ore run deep beneath the stone. The town grew around the mines, evolving into a hub of labor, craftsmanship, and resilience. It is one of the northernmost settlements of note, bordered by dense forests to the east, west, and south, with only a single road connecting it to the outside world.
 
